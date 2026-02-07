@@ -46,8 +46,8 @@ Plaintext
 
 
 ### 📬 Contact
-**Email: your.email@example.com**
+**Email: shrutisharma2308@gmil.com**
 
-**LinkedIn: Shruti Sharma**
+**LinkedIn: www.linkedin.com/in/shruti-sharma-eng2308**
 
 **GitHub: @shhruti23**
