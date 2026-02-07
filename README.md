@@ -2,8 +2,6 @@
 
 A high-performance, interactive portfolio website designed to showcase my creative development skills. Built with a focus on smooth user experience, micro-interactions, and modern design principles.
 
-🔗 **Live Demo:** http://127.0.0.1:5500/portfolio-website/index.html
-
 ## ✨ Key Features
 
 - **Smooth Scrolling:** Implemented using **Lenis** for a weighted, premium feel.
